@@ -23,4 +23,10 @@ another
 
 1993
 
+<<<<<<< HEAD
 zhoujielun
+=======
+0909
+
+aslkdjlsd
+>>>>>>> new branch results writes it
